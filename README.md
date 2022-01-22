@@ -1,8 +1,6 @@
-# OS 스터디
-
 # 운영체제 스터디
 
-![OSTEP.png](OS%20%E1%84%89%E1%85%B3%E1%84%90%E1%85%A5%E1%84%83%E1%85%B5%202411b005f9bb40c19005f8446d7f10fd/OSTEP.png)
+![OSTEP.png](./cover_image.png)
 
 ## 📖 교재
 
