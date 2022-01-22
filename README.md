@@ -47,3 +47,8 @@
 
 - 불참 OR 해당 주차 학습을 못했을 시
 - 벌금은 조금 부담스러울 수 있으니 해당 주차 혹은 그 다음 주차에 팀원들에게 커피 한잔씩 사주기
+
+## 👩‍💻🧑‍💻 스터디원
+<img src="https://avatars.githubusercontent.com/u/56557862?v=4" width=100> | <img src="https://avatars.githubusercontent.com/u/59327026?v=4" width=100> | <img src="https://avatars.githubusercontent.com/u/59275331?v=4" width=100> | <img src="https://avatars.githubusercontent.com/u/38307205?v=4" width=100>
+:---: | :---: | :---: | :---: |
+혜원([@YumYumNyang](https://github.com/YumYumNyang)) | 진호([@zzzinho](https://github.com/zzzinho)) | 우영([@wooyoung-tom](https://github.com/wooyoung-tom)) | 재영([@jaeyeong951](https://github.com/jaeyeong951))
